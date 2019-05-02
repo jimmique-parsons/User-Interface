@@ -64,3 +64,104 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+.container {
+	width: 878px;
+	margin: auto;
+	/*border: 1px solid red;*/
+}
+
+header nav {
+	display: inline-block;
+	margin-top: 35px;
+	margin-left: 15px;
+}
+
+header nav a {
+	/* TB LR */
+	margin: 0 25px;
+}
+
+header img.logo {
+	margin-left: 50px
+}
+
+.call-to-action {
+	margin-bottom: 80px;
+}
+
+
+.call-to-action-text {
+	display: inline-block;
+	font-size: 70px;
+	text-align: center;
+}
+
+.call-to-action img {
+	margin-top: 50px;
+	margin-left: 200px;
+	display: inline-block;
+    
+}
+
+button{
+    background-color: white;
+    color:black;
+	border: 2px solid #000000;
+	width: 150px;
+	height: 35px;
+	font-size: 16px;
+}
+
+.main-content {
+	border-top: 1px solid black;
+}
+
+.features {
+	display: inline-block;
+	width: 415px;
+	margin-top: 50px;
+}
+
+.about {
+	display: inline-block;
+    width: 415px;
+    margin-left: 30px;
+	margin-bottom: 30px;
+}
+
+.services {
+	display: inline-block;
+	width: 280px;
+	margin-top: 30px;
+	margin-bottom: 50px;
+
+}
+
+.product {
+	display: inline-block;
+	width: 280px;
+	margin: 0 14px;
+}
+
+.vision {
+	display: inline-block;
+    width: 280px;
+}
+	
+.contact {
+	border-top: 1px solid black;
+}
+
+.contact h3 {
+	margin-top: 50px;
+}
+
+.copyright { 
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 100px;
+}
+
+
+	
